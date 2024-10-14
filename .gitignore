@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Except
+!.gitignore
+!Makefile
+!main.c
+!chardev.h
+!clean.h
+!run.sh
+!userspace_ioctl.c
+!README.md
